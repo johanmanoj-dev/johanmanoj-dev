@@ -1,18 +1,104 @@
+<!-- HEADER -->
+<h1 align="center">Hey there 👋, I'm Johan P. Manoj</h1>
+<h3 align="center">💻 Computer Science Student | Tech Enthusiast | Future Builder</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joo.h.an) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johan-p-manoj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johanpmanoj.p@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=johanmanoj-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=johanmanoj-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=johanmanoj-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=johanmanoj-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Linux+Lover+%F0%9F%90%A7;Windows+Power+User+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=johanmanoj-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌌 About Me
+
+- 🎓 B.Tech CSE Aspirant  
+- 🧠 Passionate about **Technology, AI, and Systems**
+- 🐧 Arch Linux user (yes, I survived the install)
+- 🎮 Gamer who loves AAA titles
+- ⚡ Curious about how things *really* work under the hood
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,html,css,c,python,arch,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=johanmanoj-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamejohanmanoj-dev=&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  
+<img src="https://streak-stats.demolab.com?user=johanmanoj-dev&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=johanmanoj-dev&theme=tokyonight&no-frame=true&margin-w=15" />
+
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=johanmanoj-dev&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Master Git & GitHub workflows
+- 🧠 Learn Data Structures & Algorithms
+- 💻 Build real-world projects
+- 🌍 Contribute to Open Source
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/johanmanoj-dev">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+</a>
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I like understanding systems so deeply that I sometimes break them just to learn how they work 😎
+
+---
+
+<p align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
+
+</p>
