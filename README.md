@@ -1,104 +1,97 @@
-<!-- HEADER -->
-<h1 align="center">Hey there 👋, I'm Johan P. Manoj</h1>
-<h3 align="center">💻 Computer Science Student | Tech Enthusiast | Future Builder</h3>
-
+<!-- TOP BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Linux+Lover+%F0%9F%90%A7;Windows+Power+User+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80;Always+Learning+Something+New+%F0%9F%93%9A" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=220&section=header&text=Johan%20P%20Manoj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- TYPING INTRO -->
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Student;Arch+Linux+Power+User;Tech+Explorer;Always+Learning+Something+New" />
 </p>
 
 ---
 
-## 🌌 About Me
-
-- 🎓 B.Tech CSE Aspirant  
-- 🧠 Passionate about **Technology, AI, and Systems**
-- 🐧 Arch Linux user (yes, I survived the install)
-- 🎮 Gamer who loves AAA titles
-- ⚡ Curious about how things *really* work under the hood
-
----
-
-## 🛠️ Tech Stack
+<h2 align="center">🧠 SYSTEM PROFILE</h2>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,windows,git,github,html,css,c,python,arch,vscode" />
+<img src="https://img.shields.io/badge/Name-Johan%20P%20Manoj-6E0505?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Role-CS%20Student-6A00FF?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/Focus-Systems%20%26%20Programming-FF0080?style=for-the-badge&labelColor=0f2027" />
 
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=johanmanoj-dev&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?usernamejohanmanoj-dev=&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/Interest-AI%20%7C%20Tech%20%7C%20Gaming-6E0505?style=flat-square" />
+
 
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🛠️ TECH STACK
 
 <p align="center">
-  
+<img src="https://skillicons.dev/icons?i=linux,arch,windows,git,github,html,css,c,python,vscode" />
+</p>
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=johanmanoj-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=johanmanoj-dev&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 CONTRIBUTION STREAK
+
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=johanmanoj-dev&theme=tokyonight&hide_border=true" />
-
 </p>
 
 ---
 
-## 🏆 Achievements
+## 📈 ACTIVITY GRAPH
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=johanmanoj-dev&theme=tokyonight&no-frame=true&margin-w=15" />
-
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=johanmanoj-dev&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/johanmanoj-dev/johanmanoj-dev/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## 🎯 CURRENT OBJECTIVES
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Master-Git%20%26%20GitHub-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learn-Data%20Structures-6A00FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build-Real%20Projects-FF0080?style=for-the-badge" />
 
 </p>
 
 ---
 
-## 🎯 Current Goals
-
-- 🚀 Master Git & GitHub workflows
-- 🧠 Learn Data Structures & Algorithms
-- 💻 Build real-world projects
-- 🌍 Contribute to Open Source
-
----
-
-## 🤝 Connect With Me
+## 🌐 CONNECT
 
 <p align="center">
-
 <a href="https://github.com/johanmanoj-dev">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## ⚡ Fun Fact
-
-> I like understanding systems so deeply that I sometimes break them just to learn how they work 😎
-
----
-
 <p align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=120&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=140&section=footer"/>
 </p>
