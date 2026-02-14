@@ -67,7 +67,6 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Master-Git%20%26%20GitHub-00F7FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Learn-Data%20Structures-6A00FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Build-Real%20Projects-FF0080?style=for-the-badge" />
 
