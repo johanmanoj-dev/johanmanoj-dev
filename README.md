@@ -32,7 +32,7 @@
 ## 🛠️ TECH STACK
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,arch,windows,git,github,html,css,c,python,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,arch,windows,git,github,html,css,cpp,c,python,vscode,mysql" />
 </p>
 
 ---
@@ -62,13 +62,6 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/johanmanoj-dev/johanmanoj-dev/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## 🎯 CURRENT OBJECTIVES
 
@@ -85,12 +78,20 @@
 ## 🌐 CONNECT
 
 <p align="center">
+
 <a href="https://github.com/johanmanoj-dev">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
 
----
+<a href="https://www.instagram.com/joo.h.an/">
+<img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://www.linkedin.com/in/johan-p-manoj/">
+<img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=140&section=footer"/>
