@@ -1,16 +1,6 @@
-<!-- TOP BANNER -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=220&section=header&text=Johan%20P%20Manoj&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-</p>
 
-<!-- TYPING INTRO -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Student;Arch+Linux+Power+User;Tech+Explorer;Always+Learning+Something+New" />
-</p>
 
----
-
-<h2 align="center">🧠 SYSTEM PROFILE</h2>
+<h2 align="center"> SYSTEM PROFILE</h2>
 
 <p align="center">
 
