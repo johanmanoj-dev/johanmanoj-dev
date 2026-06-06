@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ TECH STACK
+##  TECH STACK
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,arch,windows,git,github,html,css,cpp,c,python,vscode,mysql" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 📊 GITHUB STATS
+##  GITHUB STATS
 
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=johanmanoj-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -40,48 +40,4 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=johanmanoj-dev&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 ACTIVITY GRAPH
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=johanmanoj-dev&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-
-## 🎯 CURRENT OBJECTIVES
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Learn-Data%20Structures-6A00FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Build-Real%20Projects-FF0080?style=for-the-badge" />
-
-</p>
-
----
-
-## 🌐 CONNECT
-
-<p align="center">
-
-<a href="https://github.com/johanmanoj-dev">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/joo.h.an/">
-<img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-</a>
-
-<a href="https://www.linkedin.com/in/johan-p-manoj/">
-<img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:2c5364&height=140&section=footer"/>
 </p>
